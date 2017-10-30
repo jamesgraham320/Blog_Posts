@@ -29,3 +29,15 @@ In the above example, you can see the layout of a markdown file (this one in fac
 
 **Hosting your site on Gitub Pages**
 ------------------------------------
+
+This is the part that gave me the most trouble, but is actually pretty simple once you know what to do. Once your repository is pushed up to github, go to the settings tab and scroll down to Pages. Simply turn on pages by selecting the branch your website is on and make it generates a url for your web page!
+
+![github pages example](/images/github_pages_example.png)
+
+You can see near the top of the image it shows your url in a link. Click on that to see your website and link to it wherever you want. The thing that tripped me up the most was forgetting to put in the baseurl in the config.yml file, without it, the whole website broke so make sure you include it!
+
+![pesky devil](/images/config_baseurl.png)
+
+This concludes our little foray into hosting your website on github, I still have a lot more to learn about creating my own custom CSS to really customize it, but a working website is out there on the internet, ready for you to get blogging.
+
+-James Graham
