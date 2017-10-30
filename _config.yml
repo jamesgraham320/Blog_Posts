@@ -17,8 +17,8 @@ title: James Graham's dope corner
 email: jamesmgraham320@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Musings on code and workflow.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /blog_posts # the subpath of your site, e.g. /blog
+url: "https://jamesgraham320.github.io/blog_posts/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  jamesgraham320
 
