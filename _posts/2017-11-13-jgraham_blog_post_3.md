@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vim modes and why they matter"
-date:   2017-10-29 
+date:   2017-11-13
 ---
 
 **Vim Modes and why they matter**
@@ -12,9 +12,9 @@ Vim is based on three modes. Normal, Visual, and Insert mode. The three modes ca
 
 | Mode  | Description |
 | ------------- | ------------- |
-| Normal | Use the keyboard to do commands |
-| Visual | Use the keyboard to highlight text |
-| Insert | Type normally |
+| Normal  | Use the keyboard to do commands  |
+| Visual  | Use the keyboard to highlight text  |
+| Insert  | Type normally  |
 
 
 
