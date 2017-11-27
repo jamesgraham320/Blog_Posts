@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Javascript orbject relations refresher"
+title:  "Javascript object relations refresher"
 date:   2017-11-27
 ---
 
