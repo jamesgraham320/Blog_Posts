@@ -20,3 +20,8 @@ For now lets took at a super basic example. Sass allows you to create variables 
 
 In my own personal website, I have a bunch of colors that I have to refer to regularly. If i went around copying and pasting hexcodes and RGB values everywhere I would quickly become lost. By saving them to variables, it's much easier to keep track of all of them!
 
+The last important feature of Sass we're going to talk about are mixins. These work similarly to just plain variables but you can save multiple style rules for use later with these. Many mixins are 'included' from other sources and generate common CSS for you (seeing a trend here?).
+
+![Sass font-face mixin](https://image.ibb.co/jt9GvG/Screen_Shot_2017_12_10_at_4_18_09_PM.png)
+
+This is an example of how you would include your font files. Normally you would have to declare each font file and their extension, but with a mixin, you can generate all of the basic file type endings you need. With only the path to the font files and the name of the font family, Sass can do the rest!
